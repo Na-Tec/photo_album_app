@@ -13,6 +13,13 @@ Built with Flutter and `shared_preferences` for local storage.
 
 ---
 
+## 📸 Video
+
+| Photo_Album_Video |
+[Watch the demo](screenshots/photo_album_video.mp4)
+
+---
+
 ## ✨ Features
 
 - 👥 User list & albums
